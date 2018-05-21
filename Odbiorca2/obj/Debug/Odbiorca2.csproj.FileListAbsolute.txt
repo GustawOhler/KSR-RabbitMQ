@@ -1,0 +1,10 @@
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\Odbiorca2.exe.config
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\Odbiorca2.exe
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\Odbiorca2.pdb
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\RabbitMQ.Client.dll
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\bin\Debug\RabbitMQ.Client.xml
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\obj\Debug\Odbiorca2.exe
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\obj\Debug\Odbiorca2.pdb
+E:\studia\ksr\ConsoleApplication1\Odbiorca2\obj\Debug\Odbiorca2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\studia\ksr\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
